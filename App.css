@@ -1,0 +1,14 @@
+
+* {
+  box-sizing: border-box;
+}
+
+a:visited { 
+  text-decoration: none; 
+  color: rgb(249, 249, 249); 
+}
+
+a {
+  text-decoration: none;
+  
+}
